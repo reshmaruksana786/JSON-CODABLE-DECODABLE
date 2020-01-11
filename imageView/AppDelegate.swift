@@ -1,10 +1,4 @@
-//
-//  AppDelegate.swift
-//  imageView
-//
-//  Created by Sagi Harika on 11/28/19.
-//  Copyright © 2019 Sagi Harika. All rights reserved.
-//
+
 
 import UIKit
 
